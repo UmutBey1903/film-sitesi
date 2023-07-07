@@ -1,7 +1,9 @@
-<h1>Film sitesi</h1>
+<h1>Movie site</h1>
 
-Çeşitli kategorilerde dilediğiniz filmi izleyebileceğiniz full responsive bir film sitesi
+A responsive movie site where you can watch movies or TV series in various categories
 
-<h2> Ekran gif </h2>
+<h2> screen gif </h2>
+
+html, css and java script used
 
 ![](gif/spiderman.gif)
